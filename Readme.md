@@ -1,5 +1,5 @@
-### Vehicle patents
-REST API to generate and verify vehicle license plates
+# Vehicle patents
+
 
 #### Features
 - Obtain vehicle license based on an id (number)
