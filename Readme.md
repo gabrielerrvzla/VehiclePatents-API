@@ -7,7 +7,7 @@
 - Obtain id (number) based on a vehicle patent
 
 #### Run application
-- Run git clone https://github.com/gabrielerrvzla/VehiclePatents-API.git
+- Run `git clone https://github.com/gabrielerrvzla/VehiclePatents-API.git`
 
 - Run `python3 -m venv env (create virtual environment)`
 
@@ -17,7 +17,7 @@
 
 - Run `pytest`
 
-- run `cd/app`
+- Run `cd/app`
 
 - Run `uvicorn main:app --reload`
 
