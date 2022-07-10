@@ -24,6 +24,6 @@
 - Go to http://localhost:8000/docs
 
 #### Run application with docker
-- Run `docker build -t patent_api`
+- Run `docker build -t patent_api .`
 
 - Run `docker run -p 8000:8000 patent_api`
